@@ -1,5 +1,5 @@
 # SpatialOS-Playfab-Platform-API
-Authentication to SpatialOS gamelogic servers using Playfab API
+Authentication to SpatialOS services using Playfab API
 
 Add in your ProjectName, ServiceAccountName, titleID, secretKey to ServiceAccountService.cs
 
